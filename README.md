@@ -4,13 +4,13 @@ Welcome to **My Coding Adventure**! This repository is a collection of all my co
 
 ---
 
-## 🗂 Repository Structure
+## Repository Structure
 
 Each folder in this repository represents a specific coding project, organized chronologically as I progressed from beginner to more advanced concepts. Here's an outline:
 
 ---
 
-##  Highlights
+## Highlights
 
 Here are some of the standout projects in this repository:
 - **Tic-Tac-Toe Game**: My first game project, built using basic programming concepts.  
