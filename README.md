@@ -15,10 +15,8 @@ Each folder in this repository represents a specific coding project, organized c
 Here are some of the standout projects in this repository:
 - **Tic-Tac-Toe Game**: My first game project, built using basic programming concepts.  
 - **8-Puzzle Solver**: Advanced algorithms like BFS, DFS, and backtracking in action.
-
+ 
 ---
-
-##  Lessons Learned
 
 Through these projects, I’ve gained experience in:
 - Programming languages: Python, C++, etc.
@@ -33,12 +31,6 @@ I believe in continuous learning and collaboration. Feel free to:
 - Explore my code.
 - Suggest improvements or new ideas.
 - Share feedback to help me improve.
-
----
-
-##  What's Next?
-
-I'm constantly working on new and exciting projects to expand my skill set. Stay tuned for updates!
 
 ---
 
