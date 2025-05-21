@@ -6,7 +6,7 @@ Welcome to **My Coding Adventure**! This repository is a collection of all my co
 
 ## Repository Structure
 
-Each folder in this repository represents a specific coding project, organized chronologically as I progressed from beginner to more advanced concepts. Here's an outline:
+Each folder in this repository represents a specific coding project, organized as I progressed from beginner to more advanced concepts. Here's an outline:
 
 ---
 
