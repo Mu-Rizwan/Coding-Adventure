@@ -15,6 +15,7 @@ Each folder in this repository represents a specific coding project, organized c
 Here are some of the standout projects in this repository:
 - **Tic-Tac-Toe Game**: My first game project, built using basic programming concepts.  
 - **8-Puzzle Solver**: Advanced algorithms like BFS, DFS, and backtracking in action.
+- **0-1 Knapsack Problem**: Solved with Genetic Algorithm which is basically used for optimization problems such as Knapsack.
  
 ---
 
